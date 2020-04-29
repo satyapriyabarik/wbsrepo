@@ -1,0 +1,36 @@
+{
+  "wbsDetails":[
+    {
+      "wbsName":"Citi1",
+      "wbsId":"pr1234"
+    },
+    {
+      "wbsName":"Boxer23",
+      "wbsId":"pr4567"
+    },
+    {
+      "wbsName":"Frick45",
+      "wbsId":"pr0987"
+    },
+    {
+      "wbsName":"Happy76",
+      "wbsId":"pr9870"
+    },
+    {
+      "wbsName":"Cuprious2",
+      "wbsId":"pr1876"
+    },
+    {
+      "wbsName":"Whirlpool2",
+      "wbsId":"pj7845"
+    },
+    {
+      "wbsName":"Yamaha23",
+      "wbsId":"pj9988"
+    },
+    {
+      "wbsName":"Okahama",
+      "wbsId":"pj3490"
+    }
+]
+}
